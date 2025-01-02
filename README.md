@@ -1,3 +1,7 @@
+# Peter GriffAIn
+
+Peter GriffAIn runs on ZerePy framework (https://github.com/blorm-network/ZerePy). It uses a custom version of ChatGPT trained to Tweet using the mannerisms of Peter Griffin from the TV show Family Guy.
+
 # ZerePy
 
 ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
